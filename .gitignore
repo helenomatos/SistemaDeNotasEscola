@@ -1,0 +1,13 @@
+# Compiled output
+bin/
+out/
+*.class
+
+# IDE and OS files
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+*.iml
+.DS_Store
